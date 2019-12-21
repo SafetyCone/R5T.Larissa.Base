@@ -1,0 +1,2 @@
+# R5T.Larissa.Base
+An ISvnOperator service definition base library for the Larissa project.
