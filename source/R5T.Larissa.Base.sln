@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Larissa.Base.Constructi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Larissa.Base", "R5T.Larissa.Base\R5T.Larissa.Base.csproj", "{D4FF26A9-C8F1-4D4A-A514-422A8D79542E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependencies", "{1697B63D-79F9-481B-BF33-A747E1DC6D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{6862A2AC-E461-417A-A1DD-F6A24B514CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +48,20 @@ Global
 		{D4FF26A9-C8F1-4D4A-A514-422A8D79542E}.Release|x64.Build.0 = Release|Any CPU
 		{D4FF26A9-C8F1-4D4A-A514-422A8D79542E}.Release|x86.ActiveCfg = Release|Any CPU
 		{D4FF26A9-C8F1-4D4A-A514-422A8D79542E}.Release|x86.Build.0 = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|x64.Build.0 = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Debug|x86.Build.0 = Debug|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|x64.ActiveCfg = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|x64.Build.0 = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|x86.ActiveCfg = Release|Any CPU
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6862A2AC-E461-417A-A1DD-F6A24B514CB8} = {1697B63D-79F9-481B-BF33-A747E1DC6D3E}
 	EndGlobalSection
 EndGlobal
